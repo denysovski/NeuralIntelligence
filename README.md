@@ -1,4 +1,4 @@
-# NEURAL
+# Neural Intelligence
 NEURAL is a web-based artificial intelligence platform designed to make working with AI clear, fast, and visually focused. Built as a front-end–driven web project, NEURAL emphasizes clarity, trust, and smooth interaction, making advanced AI tools accessible without overwhelming the user.
 The platform balances technical credibility with a clean, modern interface, allowing users to focus on results rather than complexity.
 
