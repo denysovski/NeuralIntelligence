@@ -18,6 +18,6 @@ Most AI platforms are either overly technical or visually generic. NEURAL sits b
 Whether exploring AI capabilities, reviewing outputs, or interacting with intelligent systems, NEURAL keeps the experience focused, modern, and visually refined.
 
 ## Live preview
-Link to the website: 
+Link to the website: https://denysovski.github.io/NeuralIntelligence/
 
 <img alt="screencapture-127-0-0-1-5500-generated-page-html-2025-12-28-12_17_32" src="https://github.com/user-attachments/assets/2831001d-4b0c-4069-a420-fa1f2dcd8c80" />
