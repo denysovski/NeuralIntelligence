@@ -20,4 +20,4 @@ Whether exploring AI capabilities, reviewing outputs, or interacting with intell
 ## Live preview
 Link to the website: https://denysovski.github.io/NeuralIntelligence/
 
-<img alt="screencapture-127-0-0-1-5500-generated-page-html-2025-12-28-12_17_32" src="https://github.com/user-attachments/assets/2831001d-4b0c-4069-a420-fa1f2dcd8c80" />
+<img alt="screencapture-denysovski-github-io-NeuralIntelligence-2025-12-28-12_25_53" src="https://github.com/user-attachments/assets/e30a2bd9-7196-4458-aeb9-ca0bf73bb9e7" />
